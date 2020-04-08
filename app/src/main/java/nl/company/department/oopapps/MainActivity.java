@@ -51,6 +51,6 @@ public class MainActivity extends AppCompatActivity
                 123456,EyeColor.GREEN);
         Log.i("myInfo:",graduate.getThesis());
 
-
+//
     }
 }
