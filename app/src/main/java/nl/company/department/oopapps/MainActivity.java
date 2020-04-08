@@ -49,7 +49,8 @@ public class MainActivity extends AppCompatActivity
 //  ========================================================================7
         Graduate graduate = new Graduate("GrFirstName","GrLastName",
                 123456,EyeColor.GREEN);
-        Log.i("info:",graduate.getThesis());
+        Log.i("myInfo:",graduate.getThesis());
+
 
     }
 }
