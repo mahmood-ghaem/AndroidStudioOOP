@@ -18,6 +18,6 @@ Good luck!
 
 ## License
 ```
-Copyright Sayed Mahmood Ghaem Maghami 2020.
+Copyright Sayed Mahmood Ghaemmaghami 2020.
 ```
 [Linkedin](https://www.linkedin.com/in/mahmood-ghaemmaghami)
